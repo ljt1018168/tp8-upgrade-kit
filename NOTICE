@@ -1,0 +1,22 @@
+TP8 Upgrade Kit
+Copyright 2026 TP8 Upgrade Kit contributors
+
+This product includes software developed from the ThinkPHP Framework
+(http://www.thinkphp.cn/), Copyright (c) 2006-2018 ThinkPHP
+(上海顶想信息科技有限公司), licensed under the Apache License, Version 2.0.
+
+The following files are derived from or reimplementations of ThinkPHP 5.1
+framework source code (thinkphp/library/traits/controller/Jump.php,
+thinkphp/library/think/Controller.php, thinkphp/library/think/view/driver/Think.php,
+thinkphp/library/think/response/Jump.php and the dispatch_jump template):
+
+  compat-layer/jump/Jump.trait.php
+  compat-layer/jump/Jump.response.php
+  compat-layer/jump/BaseController.php
+  compat-layer/jump/dispatch_jump.tpl
+  compat-layer/view/Think.php
+
+Modifications are licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0

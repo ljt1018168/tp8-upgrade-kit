@@ -1,0 +1,15 @@
+# 环境与凭证（任何情况下不得提交）
+.env
+.env.*
+
+# 回归工具运行产物（含会话 sid 与入口清单，不得提交）
+tools/regress/urls.json
+tools/regress/result*.json
+tools/regress/reports/
+
+# 语言/工具产物
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
